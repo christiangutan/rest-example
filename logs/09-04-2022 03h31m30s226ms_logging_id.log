@@ -1,0 +1,10 @@
+09-04-2022 03:31:30:437 Rest_client [INFO] : http://localhost:7070/cil/surfaceBase/6.1
+09-04-2022 03:31:30:442 Rest_client [INFO] : media type: text/plain
+09-04-2022 03:31:31:930 Rest_client [TRACE] : Surface Base - Result got
+09-04-2022 03:31:31:931 Rest_client [INFO] : http://localhost:7070/cil/surfaceSide/6.1/2.3
+09-04-2022 03:31:31:931 Rest_client [INFO] : media type: application/json
+09-04-2022 03:31:31:973 Rest_client [TRACE] : Surface Side - Result got
+09-04-2022 03:31:31:973 Rest_client [INFO] : http://localhost:7070/cil/surfaceTotal/6.1/2.3
+09-04-2022 03:31:31:973 Rest_client [INFO] : media type: application/json
+09-04-2022 03:31:32:071 Rest_client [TRACE] : Surface Total - Result got
+09-04-2022 03:31:32:123 Rest_client [TRACE] : Surface Total - Gson built

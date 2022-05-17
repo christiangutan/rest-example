@@ -1,0 +1,16 @@
+01-04-2022 03:00:45:689 Rest_servidor [INFO] : startJettyWebServer
+01-04-2022 03:00:47:250 Rest_servidor [INFO] : Jetty server started
+01-04-2022 03:00:47:250 Rest_servidor [INFO] : stopJettyServerAfter 30000 milliseconds
+01-04-2022 03:00:51:765 Rest_servidor [INFO] : surfaceBase
+01-04-2022 03:00:51:769 Rest_servidor [INFO] : rad (num_1): 6.0
+01-04-2022 03:00:51:769 Rest_servidor [TRACE] : SurfarceBase - Result calculated: 113.0976
+01-04-2022 03:00:54:524 Rest_servidor [INFO] : surfaceBase
+01-04-2022 03:00:54:524 Rest_servidor [INFO] : rad (num_1): 6.5
+01-04-2022 03:00:54:524 Rest_servidor [TRACE] : SurfarceBase - Result calculated: 132.7326
+01-04-2022 03:01:01:071 Rest_servidor [INFO] : surfaceBase
+01-04-2022 03:01:01:071 Rest_servidor [INFO] : rad (num_1): 6214.334
+01-04-2022 03:01:01:071 Rest_servidor [TRACE] : SurfarceBase - Result calculated: 1.2132214188477528E8
+01-04-2022 03:01:06:606 Rest_servidor [INFO] : surfaceBase
+01-04-2022 03:01:06:607 Rest_servidor [INFO] : rad (num_1): 1.1
+01-04-2022 03:01:06:607 Rest_servidor [TRACE] : SurfarceBase - Result calculated: 3.8013361647834794
+01-04-2022 03:01:17:260 Rest_servidor [INFO] : Jetty server stopped

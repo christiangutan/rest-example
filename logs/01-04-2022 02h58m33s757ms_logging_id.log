@@ -1,0 +1,6 @@
+01-04-2022 02:58:33:898 Rest_servidor [INFO] : startJettyWebServer
+01-04-2022 02:58:35:507 Rest_servidor [INFO] : Jetty server started
+01-04-2022 02:58:35:507 Rest_servidor [INFO] : stopJettyServerAfter 30000 milliseconds
+01-04-2022 02:58:50:680 Rest_servidor [INFO] : surfaceBase
+01-04-2022 02:58:50:681 Rest_servidor [INFO] : rad (num_1): 6.0
+01-04-2022 02:59:05:529 Rest_servidor [INFO] : Jetty server stopped

@@ -1,0 +1,16 @@
+09-04-2022 03:31:17:088 Rest_servidor [INFO] : startJettyWebServer
+09-04-2022 03:31:18:796 Rest_servidor [INFO] : Jetty server started
+09-04-2022 03:31:18:797 Rest_servidor [INFO] : stopJettyServerAfter 30000 milliseconds
+09-04-2022 03:31:31:888 Rest_servidor [INFO] : surfaceBase
+09-04-2022 03:31:31:889 Rest_servidor [INFO] : rad (num_1): 6.1
+09-04-2022 03:31:31:889 Rest_servidor [TRACE] : Surfarce Base - Result calculated: 116.89893234480289
+09-04-2022 03:31:31:970 Rest_servidor [INFO] : surfaceSide
+09-04-2022 03:31:31:970 Rest_servidor [INFO] : rad (num_1): 6.1
+09-04-2022 03:31:31:970 Rest_servidor [INFO] : alt (num_2): 2.3
+09-04-2022 03:31:31:970 Rest_servidor [TRACE] : Surface Side - Result calculated: 88.15329279421236
+09-04-2022 03:31:32:014 Rest_servidor [INFO] : surface total
+09-04-2022 03:31:32:015 Rest_servidor [INFO] : rad (num_1): 6.1
+09-04-2022 03:31:32:015 Rest_servidor [INFO] : alt (num_2): 2.3
+09-04-2022 03:31:32:016 Rest_servidor [TRACE] : Surface Total - Result calculated
+09-04-2022 03:31:32:063 Rest_servidor [TRACE] : Surface Total - Gson built
+09-04-2022 03:31:48:816 Rest_servidor [INFO] : Jetty server stopped

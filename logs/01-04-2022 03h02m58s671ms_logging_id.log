@@ -1,0 +1,6 @@
+01-04-2022 03:02:58:802 Rest_client [INFO] : http://localhost:7070/cil/surfaceBase/6.1
+01-04-2022 03:02:58:805 Rest_client [INFO] : media type: text/plain
+01-04-2022 03:03:00:056 Rest_client [INFO] : http://localhost:7070/cil/surfaceSide/6.1/2.3
+01-04-2022 03:03:00:056 Rest_client [INFO] : media type: application/json
+01-04-2022 03:03:00:106 Rest_client [INFO] : http://localhost:7070/cil/surfaceTotal/6.1/2.3
+01-04-2022 03:03:00:106 Rest_client [INFO] : media type: application/json

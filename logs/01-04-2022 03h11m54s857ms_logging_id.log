@@ -1,0 +1,11 @@
+01-04-2022 03:11:54:938 Rest_servidor [INFO] : startJettyWebServer
+01-04-2022 03:11:56:392 Rest_servidor [INFO] : Jetty server started
+01-04-2022 03:11:56:392 Rest_servidor [INFO] : stopJettyServerAfter 30000 milliseconds
+01-04-2022 03:11:58:105 Rest_servidor [INFO] : surfaceSide
+01-04-2022 03:11:58:105 Rest_servidor [INFO] : rad (num_1): 6.1
+01-04-2022 03:11:58:105 Rest_servidor [INFO] : alt (num_2): 2.3
+01-04-2022 03:11:58:105 Rest_servidor [TRACE] : Surface Side - Result calculated: 88.15308665394946
+01-04-2022 03:12:04:507 Rest_servidor [INFO] : surface total
+01-04-2022 03:12:04:507 Rest_servidor [INFO] : rad (num_1): 6.1
+01-04-2022 03:12:04:507 Rest_servidor [INFO] : alt (num_2): 2.3
+01-04-2022 03:12:26:408 Rest_servidor [INFO] : Jetty server stopped
